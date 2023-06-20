@@ -1,31 +1,174 @@
-# Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: tickets
+repo: upptime
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-
+  - name: TTM
+    url: https://ttm.org
+    
+  - name: TICKETS.AF
+    url: https://tickets.af
+  - name: TICKETS.AR
+    url: https://tickets.ar
+  - name: TICKETS.AX
+    url: https://tickets.ax
+  - name: TICKETS.DZ
+    url: https://tickets.dz
+  - name: TICKETS.ASIA
+    url: https://tickets.asia
+  - name: TICKETS.BJ
+    url: https://tickets.bj
+  - name: TICKETS.BO
+    url: https://tickets.bo
+  - name: TICKETS.BA
+    url: https://tickets.ba
+  - name: TICKETS.TUR.BR
+    url: https://tickets.tur.br
+  - name: TICKETS.COM.KH
+    url: https://tickets.com.kh
+  - name: TICKETS.TD
+    url: https://tickets.td
+  - name: TICKETS.CL
+    url: https://tickets.cl
+  - name: TICKETS.中国
+    url: https://tickets.中国
+  - name: TICKETS.COM.CO
+    url: https://tickets.com.co
+  - name: TICKETS.CR
+    url: https://tickets.cr
+  - name: TICKETS.HR
+    url: https://tickets.hr
+  - name: TICKETS.CY
+    url: https://tickets.cy
+  - name: TICKETS.DO
+    url: https://tickets.do
+  - name: TICKETS.TL
+    url: https://tickets.tl
+  - name: TICKETS.EC
+    url: https://tickets.ec
+  - name: TICKETS.EG
+    url: https://tickets.eg
+  - name: TICKETS.SV
+    url: https://tickets.sv
+  - name: TICKETS.ET
+    url: https://tickets.et
+  - name: TICKETS.GF
+    url: https://tickets.gf
+  - name: TICKETS.COM.GE
+    url: https://tickets.com.ge
+  - name: TICKETS.CO.DE
+    url: https://tickets.co.de
+  - name: TICKETS.COM.GR
+    url: https://tickets.com.gr
+  - name: TICKETS.GL
+    url: https://tickets.gl
+  - name: TICKETS.GT
+    url: https://tickets.gt
+  - name: TICKETS.GY
+    url: https://tickets.gy
+  - name: TICKETS.HT
+    url: https://tickets.ht
+  - name: TICKETS.HN
+    url: https://tickets.hn
+  - name: TICKETS.ORG.IN
+    url: https://tickets.org.in
+  - name: TICKETS.CO.ID
+    url: https://tickets.co.id
+  - name: TICKETS.CI
+    url: https://tickets.ci
+  - name: TICKETS.CO.JP
+    url: http://tickets.co.jp
+  - name: TICKETS.KE
+    url: https://tickets.ke
+  - name: TICKETS.LA
+    url: https://tickets.la
+  - name: TICKETS.LY
+    url: https://tickets.ly
+  - name: TICKETS.MG
+    url: https://tickets.mg
+  - name: TICKETS.MR
+    url: https://tickets.mr
+  - name: TICKETS.CO.MA
+    url: https://tickets.co.ma
+  - name: TICKETS.CO.MZ
+    url: https://tickets.co.mz
+  - name: TICKETS.NU
+    url: https://tickets.nu
+  - name: TICKETS.COM.NI
+    url: https://tickets.com.ni
+  - name: TICKETS.NG
+    url: https://tickets.ng
+  - name: TICKETS.COM.PK
+    url: https://tickets.com.pk
+  - name: TICKETS.PA
+    url: https://tickets.pa
+  - name: TICKETS.COM.PY
+    url: https://tickets.com.py
+  - name: TICKETS.PE
+    url: https://tickets.pe
+  - name: TICKETS.PH
+    url: https://tickets.ph
+  - name: TICKETS.PT
+    url: https://tickets.pt
+  - name: TICKETS.COM.PR
+    url: https://tickets.com.pr
+  - name: TICKETS.LC
+    url: https://tickets.lc
+  - name: TICKETS.SN
+    url: https://tickets.sn
+  - name: TICKETS.COM.SG
+    url: https://tickets.com.sg
+  - name: TICKETS.SO
+    url: https://tickets.so
+  - name: TICKETS.SD
+    url: https://tickets.sd
+  - name: TICKETS.SR
+    url: https://tickets.sr
+  - name: TICKETS.SE
+    url: https://tickets.se
+  - name: TICKETS.TJ
+    url: https://tickets.tj
+  - name: TICKETS.TZ
+    url: https://tickets.tz
+  - name: TICKETS.IN.TH
+    url: https://tickets.in.th
+  - name: TICKETS.TG
+    url: https://tickets.tg
+  - name: TICKETS.CO.TT
+    url: https://tickets.co.tt
+  - name: TICKETS.TN
+    url: https://tickets.tn
+  - name: TICKETS.WEB.TR
+    url: https://tickets.web.tr
+  - name: TICKETS.IN.UA
+    url: https://tickets.in.ua
+  - name: TICKETS.ME.UK
+    url: https://tickets.me.uk
+  - name: TICKETS.US
+    url: https://tickets.us
+  - name: TICKETS.COM.VE
+    url: https://tickets.com.ve
+  - name: TICKETS.VN
+    url: https://tickets.vn
+    
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
+  cname: status.ttm.org
+  baseUrl: /
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: Upptime | TICKETS
+  introTitle: "Check real-time data for **TICKETS** local websites"
+  introMessage: Check real-time data for [**TICKETS**](https://ttm.org)
   navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: TTM
+      href: https://ttm.org
+    - title: Apps
+      href: https://ttm.org/apps
+    - title: Twitter
+      href: https://twitter.com/TPN  
+    - title: Instagram
+      href: https://instagram.com/tickets       
+  assignees:
+    - belovolk
+  theme: dark
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
