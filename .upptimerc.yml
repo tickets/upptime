@@ -51,6 +51,8 @@ sites:
     url: https://tickets.sv
   - name: TICKETS.ET
     url: https://tickets.et
+  - name: TICKETS.GA
+    url: https://tickets.ga
   - name: TICKETS.GF
     url: https://tickets.gf
   - name: TICKETS.COM.GE
