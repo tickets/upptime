@@ -868,18 +868,20 @@
     "url": "https://tickets.com.pk",
     "icon": "https://icons.duckduckgo.com/ip3/tickets.com.pk.ico",
     "slug": "tickets-com-pk",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1041,
-    "timeDay": 944,
-    "timeWeek": 1151,
-    "timeMonth": 1041,
-    "timeYear": 1041,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 979,
+    "timeDay": 653,
+    "timeWeek": 1053,
+    "timeMonth": 979,
+    "timeYear": 979,
+    "dailyMinutesDown": {
+      "2023-06-28": 1
+    }
   },
   {
     "name": "TICKETS.PA",
