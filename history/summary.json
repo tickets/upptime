@@ -418,10 +418,10 @@
     "url": "https://tickets.et",
     "icon": "https://icons.duckduckgo.com/ip3/tickets.et.ico",
     "slug": "tickets-et",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2114,
@@ -429,7 +429,9 @@
     "timeWeek": 2315,
     "timeMonth": 2114,
     "timeYear": 2114,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-02": 1
+    }
   },
   {
     "name": "TICKETS.GA",
@@ -491,19 +493,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/tickets.co.de.ico",
     "slug": "tickets-co-de",
     "status": "up",
-    "uptime": "99.95%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.95%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1208,
     "timeDay": 1379,
     "timeWeek": 1312,
     "timeMonth": 1208,
     "timeYear": 1208,
-    "dailyMinutesDown": {
-      "2023-07-02": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "TICKETS.COM.GR",
@@ -871,11 +871,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/tickets.com.pk.ico",
     "slug": "tickets-com-pk",
     "status": "up",
-    "uptime": "99.78%",
+    "uptime": "99.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.63%",
-    "uptimeMonth": "99.78%",
-    "uptimeYear": "99.78%",
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "99.79%",
     "time": 984,
     "timeDay": 1139,
     "timeWeek": 1155,
