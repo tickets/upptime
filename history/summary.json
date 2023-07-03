@@ -420,19 +420,19 @@
     "url": "https://tickets.et",
     "icon": "https://icons.duckduckgo.com/ip3/tickets.et.ico",
     "slug": "tickets-et",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2161,
-    "timeDay": 912,
-    "timeWeek": 2475,
-    "timeMonth": 2161,
-    "timeYear": 2161,
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "99.11%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 2536,
+    "timeDay": 5479,
+    "timeWeek": 3163,
+    "timeMonth": 2536,
+    "timeYear": 2536,
     "dailyMinutesDown": {
-      "2023-07-03": 1
+      "2023-07-03": 13
     }
   },
   {
