@@ -40,18 +40,20 @@
     "url": "https://tickets.ar",
     "icon": "https://icons.duckduckgo.com/ip3/tickets.ar.ico",
     "slug": "tickets-ar",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 977,
-    "timeDay": 722,
-    "timeWeek": 1142,
-    "timeMonth": 977,
-    "timeYear": 977,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 944,
+    "timeDay": 588,
+    "timeWeek": 1056,
+    "timeMonth": 944,
+    "timeYear": 944,
+    "dailyMinutesDown": {
+      "2023-07-03": 1
+    }
   },
   {
     "name": "TICKETS.AX",
