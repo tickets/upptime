@@ -500,19 +500,19 @@
     "url": "https://tickets.co.de",
     "icon": "https://icons.duckduckgo.com/ip3/tickets.co.de.ico",
     "slug": "tickets-co-de",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1143,
-    "timeDay": 861,
-    "timeWeek": 1056,
-    "timeMonth": 1143,
-    "timeYear": 1143,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.43%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 1136,
+    "timeDay": 897,
+    "timeWeek": 1044,
+    "timeMonth": 1136,
+    "timeYear": 1136,
     "dailyMinutesDown": {
-      "2023-07-11": 1
+      "2023-07-11": 8
     }
   },
   {
