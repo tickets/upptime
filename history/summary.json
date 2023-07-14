@@ -644,19 +644,19 @@
     "url": "https://tickets.co.id",
     "icon": "https://icons.duckduckgo.com/ip3/tickets.co.id.ico",
     "slug": "tickets-co-id",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1035,
-    "timeDay": 646,
-    "timeWeek": 833,
-    "timeMonth": 1035,
-    "timeYear": 1035,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.09%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 1030,
+    "timeDay": 765,
+    "timeWeek": 839,
+    "timeMonth": 1030,
+    "timeYear": 1030,
     "dailyMinutesDown": {
-      "2023-07-14": 1
+      "2023-07-14": 13
     }
   },
   {
