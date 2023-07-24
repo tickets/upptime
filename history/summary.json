@@ -555,19 +555,19 @@
     "url": "https://tickets.gt",
     "icon": "https://icons.duckduckgo.com/ip3/tickets.gt.ico",
     "slug": "tickets-gt",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 857,
-    "timeDay": 850,
-    "timeWeek": 722,
-    "timeMonth": 864,
-    "timeYear": 857,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "98.77%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 852,
+    "timeDay": 752,
+    "timeWeek": 713,
+    "timeMonth": 857,
+    "timeYear": 852,
     "dailyMinutesDown": {
-      "2023-07-24": 1
+      "2023-07-24": 18
     }
   },
   {
