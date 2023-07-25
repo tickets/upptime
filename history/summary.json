@@ -555,9 +555,9 @@
     "url": "https://tickets.gt",
     "icon": "https://icons.duckduckgo.com/ip3/tickets.gt.ico",
     "slug": "tickets-gt",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "98.77%",
+    "uptimeDay": "98.72%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
@@ -567,6 +567,7 @@
     "timeMonth": 863,
     "timeYear": 852,
     "dailyMinutesDown": {
+      "2023-07-25": 1,
       "2023-07-24": 18
     }
   },
@@ -1318,18 +1319,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/tickets.com.ve.ico",
     "slug": "tickets-com-ve",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.69%",
+    "uptimeDay": "89.11%",
+    "uptimeWeek": "98.44%",
+    "uptimeMonth": "99.64%",
+    "uptimeYear": "99.69%",
     "time": 833,
     "timeDay": 829,
     "timeWeek": 764,
     "timeMonth": 830,
     "timeYear": 833,
     "dailyMinutesDown": {
-      "2023-07-25": 1
+      "2023-07-25": 157
     }
   },
   {
