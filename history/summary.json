@@ -262,18 +262,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/tickets.com.co.ico",
     "slug": "tickets-com-co",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.98%",
+    "uptimeDay": "99.23%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
     "time": 765,
     "timeDay": 867,
     "timeWeek": 743,
     "timeMonth": 768,
     "timeYear": 765,
     "dailyMinutesDown": {
-      "2023-07-26": 2
+      "2023-07-26": 11
     }
   },
   {
@@ -631,10 +631,10 @@
     "url": "https://tickets.org.in",
     "icon": "https://icons.duckduckgo.com/ip3/tickets.org.in.ico",
     "slug": "tickets-org-in",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 772,
@@ -642,7 +642,9 @@
     "timeWeek": 771,
     "timeMonth": 768,
     "timeYear": 772,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-26": 2
+    }
   },
   {
     "name": "TICKETS.CO.ID",
@@ -1301,19 +1303,19 @@
     "url": "https://tickets.us",
     "icon": "https://icons.duckduckgo.com/ip3/tickets.us.ico",
     "slug": "tickets-us",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 755,
-    "timeDay": 955,
-    "timeWeek": 736,
-    "timeMonth": 749,
-    "timeYear": 755,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.36%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 957,
+    "timeDay": 4800,
+    "timeWeek": 1725,
+    "timeMonth": 1004,
+    "timeYear": 957,
     "dailyMinutesDown": {
-      "2023-07-26": 1
+      "2023-07-26": 9
     }
   },
   {
@@ -1322,18 +1324,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/tickets.com.ve.ico",
     "slug": "tickets-com-ve",
     "status": "down",
-    "uptime": "96.69%",
+    "uptime": "96.67%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "82.89%",
-    "uptimeMonth": "96.06%",
-    "uptimeYear": "96.69%",
+    "uptimeWeek": "82.80%",
+    "uptimeMonth": "96.04%",
+    "uptimeYear": "96.67%",
     "time": 833,
     "timeDay": 0,
     "timeWeek": 771,
     "timeMonth": 821,
     "timeYear": 833,
     "dailyMinutesDown": {
-      "2023-07-26": 680,
+      "2023-07-26": 689,
       "2023-07-25": 1045
     }
   },
