@@ -426,11 +426,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/tickets.et.ico",
     "slug": "tickets-et",
     "status": "up",
-    "uptime": "99.71%",
+    "uptime": "99.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.69%",
     "uptimeMonth": "99.66%",
-    "uptimeYear": "99.71%",
+    "uptimeYear": "99.72%",
     "time": 2142,
     "timeDay": 0,
     "timeWeek": 1040,
@@ -667,10 +667,10 @@
     "url": "https://tickets.ci",
     "icon": "https://icons.duckduckgo.com/ip3/tickets.ci.ico",
     "slug": "tickets-ci",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 816,
@@ -678,7 +678,9 @@
     "timeWeek": 821,
     "timeMonth": 805,
     "timeYear": 816,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-27": 1
+    }
   },
   {
     "name": "TICKETS.CO.JP",
@@ -1322,18 +1324,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/tickets.com.ve.ico",
     "slug": "tickets-com-ve",
     "status": "down",
-    "uptime": "95.22%",
+    "uptime": "94.92%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "74.89%",
-    "uptimeMonth": "94.22%",
-    "uptimeYear": "95.22%",
+    "uptimeWeek": "73.25%",
+    "uptimeMonth": "93.84%",
+    "uptimeYear": "94.92%",
     "time": 833,
     "timeDay": 0,
     "timeWeek": 778,
     "timeMonth": 814,
     "timeYear": 833,
     "dailyMinutesDown": {
-      "2023-07-27": 46,
+      "2023-07-27": 212,
       "2023-07-26": 1440,
       "2023-07-25": 1045
     }
