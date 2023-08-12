@@ -23,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/tickets.af.ico",
     "slug": "tickets-af",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 978,
     "timeDay": 1161,
     "timeWeek": 1113,
     "timeMonth": 966,
     "timeYear": 978,
-    "dailyMinutesDown": {
-      "2023-08-12": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "TICKETS.AR",
@@ -264,18 +262,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/tickets.com.co.ico",
     "slug": "tickets-com-co",
     "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "97.93%",
-    "uptimeWeek": "99.70%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.94%",
+    "uptime": "99.92%",
+    "uptimeDay": "96.70%",
+    "uptimeWeek": "99.53%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.92%",
     "time": 778,
     "timeDay": 855,
     "timeWeek": 887,
     "timeMonth": 767,
     "timeYear": 778,
     "dailyMinutesDown": {
-      "2023-08-12": 30,
+      "2023-08-12": 48,
       "2023-07-26": 17
     }
   },
@@ -938,10 +936,10 @@
     "url": "https://tickets.com.py",
     "icon": "https://icons.duckduckgo.com/ip3/tickets.com.py.ico",
     "slug": "tickets-com-py",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 933,
@@ -949,7 +947,9 @@
     "timeWeek": 1623,
     "timeMonth": 998,
     "timeYear": 933,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-12": 1
+    }
   },
   {
     "name": "TICKETS.PE",
@@ -1341,18 +1341,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/tickets.com.ve.ico",
     "slug": "tickets-com-ve",
     "status": "down",
-    "uptime": "65.70%",
+    "uptime": "65.68%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "39.95%",
-    "uptimeYear": "65.70%",
+    "uptimeMonth": "39.91%",
+    "uptimeYear": "65.68%",
     "time": 833,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 762,
     "timeYear": 833,
     "dailyMinutesDown": {
-      "2023-08-12": 781,
+      "2023-08-12": 798,
       "2023-08-11": 1440,
       "2023-08-10": 1440,
       "2023-08-09": 1440,
