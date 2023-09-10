@@ -99,10 +99,10 @@
     "url": "https://tickets.asia",
     "icon": "https://icons.duckduckgo.com/ip3/tickets.asia.ico",
     "slug": "tickets-asia",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 934,
@@ -110,7 +110,9 @@
     "timeWeek": 902,
     "timeMonth": 988,
     "timeYear": 934,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-10": 1
+    }
   },
   {
     "name": "TICKETS.BJ",
@@ -1351,11 +1353,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/tickets.com.ve.ico",
     "slug": "tickets-com-ve",
     "status": "up",
-    "uptime": "60.94%",
+    "uptime": "60.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "46.83%",
-    "uptimeYear": "60.94%",
+    "uptimeMonth": "47.07%",
+    "uptimeYear": "60.97%",
     "time": 892,
     "timeDay": 704,
     "timeWeek": 875,
