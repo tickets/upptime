@@ -1047,10 +1047,10 @@
     "url": "https://tickets.lc",
     "icon": "https://icons.duckduckgo.com/ip3/tickets.lc.ico",
     "slug": "tickets-lc",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 872,
@@ -1058,7 +1058,9 @@
     "timeWeek": 790,
     "timeMonth": 845,
     "timeYear": 872,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-11": 1
+    }
   },
   {
     "name": "TICKETS.SN",
@@ -1365,11 +1367,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/tickets.com.ve.ico",
     "slug": "tickets-com-ve",
     "status": "up",
-    "uptime": "71.68%",
+    "uptime": "71.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "71.68%",
+    "uptimeYear": "71.75%",
     "time": 873,
     "timeDay": 710,
     "timeWeek": 763,
