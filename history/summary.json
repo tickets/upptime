@@ -1269,19 +1269,19 @@
     "url": "https://tickets.co.tt",
     "icon": "https://icons.duckduckgo.com/ip3/tickets.co.tt.ico",
     "slug": "tickets-co-tt",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 888,
-    "timeDay": 839,
-    "timeWeek": 892,
-    "timeMonth": 831,
-    "timeYear": 888,
+    "time": 887,
+    "timeDay": 785,
+    "timeWeek": 871,
+    "timeMonth": 828,
+    "timeYear": 887,
     "dailyMinutesDown": {
-      "2023-11-03": 2
+      "2023-11-03": 7
     }
   },
   {
