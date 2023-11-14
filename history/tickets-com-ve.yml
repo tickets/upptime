@@ -1,7 +1,7 @@
 url: https://tickets.com.ve
-status: down
-code: 502
-responseTime: 657
-lastUpdated: 2023-11-14T23:40:44.275Z
+status: up
+code: 200
+responseTime: 802
+lastUpdated: 2023-11-14T23:59:06.842Z
 startTime: 2023-06-20T06:50:56.000Z
 generator: Upptime <https://github.com/upptime/upptime>
