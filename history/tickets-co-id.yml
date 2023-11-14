@@ -1,7 +1,7 @@
 url: https://tickets.co.id
-status: up
-code: 200
-responseTime: 853
-lastUpdated: 2023-11-14T20:48:47.535Z
+status: down
+code: 502
+responseTime: 633
+lastUpdated: 2023-11-14T21:04:59.814Z
 startTime: 2023-06-20T06:50:09.000Z
 generator: Upptime <https://github.com/upptime/upptime>
