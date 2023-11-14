@@ -1,7 +1,7 @@
 url: https://tickets.ar
-status: down
-code: 502
-responseTime: 4734
-lastUpdated: 2023-11-14T19:59:22.112Z
+status: up
+code: 200
+responseTime: 1130
+lastUpdated: 2023-11-14T20:15:28.317Z
 startTime: 2023-06-20T06:49:26.000Z
 generator: Upptime <https://github.com/upptime/upptime>
