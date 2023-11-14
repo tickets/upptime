@@ -1,7 +1,7 @@
 url: https://tickets.us
-status: down
-code: 502
-responseTime: 553
-lastUpdated: 2023-11-14T23:40:42.698Z
+status: up
+code: 200
+responseTime: 710
+lastUpdated: 2023-11-14T23:59:05.661Z
 startTime: 2023-06-20T06:50:55.000Z
 generator: Upptime <https://github.com/upptime/upptime>
