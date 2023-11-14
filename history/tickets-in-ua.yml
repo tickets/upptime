@@ -1,7 +1,7 @@
 url: https://tickets.in.ua
-status: down
-code: 502
-responseTime: 647
-lastUpdated: 2023-11-14T23:40:39.777Z
+status: up
+code: 200
+responseTime: 1173
+lastUpdated: 2023-11-14T23:59:03.440Z
 startTime: 2023-06-20T06:50:53.000Z
 generator: Upptime <https://github.com/upptime/upptime>
