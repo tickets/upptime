@@ -1,7 +1,7 @@
 url: https://tickets.tn
-status: up
-code: 200
-responseTime: 1002
-lastUpdated: 2023-11-13T23:18:24.729Z
+status: down
+code: 502
+responseTime: 19626
+lastUpdated: 2023-11-14T23:40:36.627Z
 startTime: 2023-06-20T06:50:51.000Z
 generator: Upptime <https://github.com/upptime/upptime>
