@@ -1,7 +1,7 @@
 url: https://tickets.中国
-status: down
-code: 502
-responseTime: 483
-lastUpdated: 2023-11-15T07:49:46.688Z
+status: up
+code: 200
+responseTime: 1008
+lastUpdated: 2023-11-15T07:59:00.962Z
 startTime: 2023-06-20T06:49:40.000Z
 generator: Upptime <https://github.com/upptime/upptime>
