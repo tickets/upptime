@@ -1,7 +1,7 @@
 url: https://tickets.cy
-status: down
-code: 502
-responseTime: 550
-lastUpdated: 2023-11-15T02:06:09.609Z
+status: up
+code: 200
+responseTime: 879
+lastUpdated: 2023-11-15T02:32:09.233Z
 startTime: 2023-06-20T06:49:45.000Z
 generator: Upptime <https://github.com/upptime/upptime>
