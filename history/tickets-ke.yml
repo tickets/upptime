@@ -1,7 +1,7 @@
 url: https://tickets.ke
-status: up
-code: 200
-responseTime: 1059
-lastUpdated: 2023-11-14T20:49:00.422Z
+status: down
+code: 502
+responseTime: 935
+lastUpdated: 2023-11-15T02:56:24.395Z
 startTime: 2023-06-20T06:50:14.000Z
 generator: Upptime <https://github.com/upptime/upptime>
