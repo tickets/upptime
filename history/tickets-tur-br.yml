@@ -1,7 +1,7 @@
 url: https://tickets.tur.br
-status: down
-code: 502
-responseTime: 429
-lastUpdated: 2023-11-15T09:28:26.095Z
+status: up
+code: 200
+responseTime: 842
+lastUpdated: 2023-11-15T09:45:55.036Z
 startTime: 2023-06-20T06:49:35.000Z
 generator: Upptime <https://github.com/upptime/upptime>
