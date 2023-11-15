@@ -1,7 +1,7 @@
 url: https://tickets.mr
-status: down
-code: 502
-responseTime: 6629
-lastUpdated: 2023-11-15T06:37:08.908Z
+status: up
+code: 200
+responseTime: 920
+lastUpdated: 2023-11-15T06:55:07.676Z
 startTime: 2023-06-20T06:50:20.000Z
 generator: Upptime <https://github.com/upptime/upptime>
