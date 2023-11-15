@@ -1,7 +1,7 @@
 url: https://tickets.pt
-status: down
-code: 502
-responseTime: 415
-lastUpdated: 2023-11-15T07:50:42.427Z
+status: up
+code: 200
+responseTime: 941
+lastUpdated: 2023-11-15T08:08:41.584Z
 startTime: 2023-06-20T06:50:34.000Z
 generator: Upptime <https://github.com/upptime/upptime>
