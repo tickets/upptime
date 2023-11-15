@@ -1,7 +1,7 @@
 url: https://tickets.sn
-status: up
-code: 200
-responseTime: 989
-lastUpdated: 2023-11-14T21:08:31.725Z
+status: down
+code: 502
+responseTime: 26479
+lastUpdated: 2023-11-15T04:26:41.720Z
 startTime: 2023-06-20T06:50:37.000Z
 generator: Upptime <https://github.com/upptime/upptime>
