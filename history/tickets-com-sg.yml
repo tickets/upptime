@@ -1,7 +1,7 @@
 url: https://tickets.com.sg
-status: up
-code: 200
-responseTime: 933
-lastUpdated: 2023-11-15T04:47:57.047Z
+status: down
+code: 502
+responseTime: 474
+lastUpdated: 2023-11-15T07:02:18.657Z
 startTime: 2023-06-20T06:50:38.000Z
 generator: Upptime <https://github.com/upptime/upptime>
