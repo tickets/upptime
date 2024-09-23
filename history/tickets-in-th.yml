@@ -1,7 +1,7 @@
 url: https://tickets.in.th
-status: up
-code: 200
-responseTime: 869
-lastUpdated: 2024-09-22T23:22:08.173Z
+status: down
+code: 500
+responseTime: 720
+lastUpdated: 2024-09-23T13:39:08.059Z
 startTime: 2023-06-20T06:50:47.000Z
 generator: Upptime <https://github.com/upptime/upptime>
