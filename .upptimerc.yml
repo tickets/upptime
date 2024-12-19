@@ -27,6 +27,8 @@ sites:
     url: https://tickets.tur.br
   - name: TICKETS.COM.KH
     url: https://tickets.com.kh
+  - name: TICKETS.CM
+    url: https://tickets.cm
   - name: TICKETS.TD
     url: https://tickets.td
   - name: TICKETS.CL
@@ -97,6 +99,8 @@ sites:
     url: https://tickets.co.ma
   - name: TICKETS.CO.MZ
     url: https://tickets.co.mz
+  - name: TICKETS.COM.MM
+    url: https://tickets.com.mm
   - name: TICKETS.NU
     url: https://tickets.nu
   - name: TICKETS.COM.NI
@@ -117,6 +121,8 @@ sites:
     url: https://tickets.pt
   - name: TICKETS.COM.PR
     url: https://tickets.com.pr
+  - name: TICKETS.COM.RO
+    url: https://tickets.com.ro
   - name: TICKETS.LC
     url: https://tickets.lc
   - name: TICKETS.SN
@@ -166,10 +172,8 @@ status-website:
   navbar:
     - title: TTM
       href: https://ttm.org
-    - title: Apps
-      href: https://ttm.org/apps
-    - title: Twitter
-      href: https://twitter.com/TPN  
+    - title: X / Twitter
+      href: https://x.com/TPN  
     - title: Instagram
       href: https://instagram.com/tickets       
   assignees:
