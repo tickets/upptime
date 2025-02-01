@@ -1,7 +1,7 @@
 url: https://tickets.hr
-status: up
-code: 200
-responseTime: 854
-lastUpdated: 2025-01-31T23:18:52.978Z
+status: down
+code: 522
+responseTime: 19578
+lastUpdated: 2025-02-01T16:18:39.199Z
 startTime: 2023-06-20T06:49:43.000Z
 generator: Upptime <https://github.com/upptime/upptime>
