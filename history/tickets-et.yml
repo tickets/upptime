@@ -1,7 +1,7 @@
 url: https://tickets.et
-status: down
-code: 500
-responseTime: 482
-lastUpdated: 2025-02-01T23:18:39.636Z
+status: up
+code: 200
+responseTime: 918
+lastUpdated: 2025-02-02T10:12:00.902Z
 startTime: 2023-06-20T06:49:52.000Z
 generator: Upptime <https://github.com/upptime/upptime>
