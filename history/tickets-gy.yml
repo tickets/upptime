@@ -1,7 +1,7 @@
 url: https://tickets.gy
-status: up
-code: 200
-responseTime: 677
-lastUpdated: 2025-02-02T10:12:13.143Z
+status: down
+code: 500
+responseTime: 767
+lastUpdated: 2025-02-02T16:32:15.675Z
 startTime: 2023-06-20T06:50:04.000Z
 generator: Upptime <https://github.com/upptime/upptime>
