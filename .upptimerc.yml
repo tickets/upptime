@@ -87,6 +87,8 @@ sites:
     url: https://tickets.ke
   - name: TICKETS.LA
     url: https://tickets.la
+  - name: TICKETS.LS
+    url: https://tickets.ls
   - name: TICKETS.LY
     url: https://tickets.ly
   - name: TICKETS.MG
