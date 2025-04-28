@@ -1,7 +1,7 @@
 url: https://tickets.co.mz
-status: up
-code: 200
-responseTime: 716
-lastUpdated: 2025-04-28T23:22:33.680Z
+status: down
+code: 500
+responseTime: 129
+lastUpdated: 2025-04-28T23:50:12.486Z
 startTime: 2023-06-20T06:50:23.000Z
 generator: Upptime <https://github.com/upptime/upptime>
