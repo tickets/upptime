@@ -1,7 +1,7 @@
 url: https://tickets.com.mm
-status: down
-code: 500
-responseTime: 136
-lastUpdated: 2025-04-28T23:50:14.625Z
+status: up
+code: 200
+responseTime: 756
+lastUpdated: 2025-04-28T23:59:21.505Z
 startTime: 2024-12-19T08:55:00.735Z
 generator: Upptime <https://github.com/upptime/upptime>
