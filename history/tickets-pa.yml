@@ -1,7 +1,7 @@
 url: https://tickets.pa
-status: down
-code: 500
-responseTime: 248
-lastUpdated: 2025-04-28T23:59:26.546Z
+status: up
+code: 200
+responseTime: 900
+lastUpdated: 2025-04-29T01:53:40.201Z
 startTime: 2023-06-20T06:50:29.000Z
 generator: Upptime <https://github.com/upptime/upptime>
