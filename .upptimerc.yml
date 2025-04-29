@@ -83,8 +83,12 @@ sites:
     url: https://tickets.ci
   - name: TICKETS.CO.JP
     url: http://tickets.co.jp
+  - name: TICKETING.JP
+    url: http://ticketing.jp
   - name: TICKETS.KE
     url: https://tickets.ke
+  - name: TICKETS.NE.KR
+    url: https://tickets.ne.kr
   - name: TICKETS.LA
     url: https://tickets.la
   - name: TICKETS.LS
@@ -153,6 +157,8 @@ sites:
     url: https://tickets.tn
   - name: TICKETS.WEB.TR
     url: https://tickets.web.tr
+  - name: TICKETS.CO.UG
+    url: https://tickets.co.ug
   - name: TICKETS.IN.UA
     url: https://tickets.in.ua
   - name: TICKETS.ME.UK
@@ -175,7 +181,7 @@ status-website:
     - title: TTM
       href: https://ttm.org
     - title: X / Twitter
-      href: https://x.com/TPN  
+      href: https://x.com/tickets_hq  
     - title: Instagram
       href: https://instagram.com/tickets       
   assignees:
