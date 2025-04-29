@@ -8,15 +8,15 @@
     "uptime": "97.64%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "51.77%",
-    "uptimeYear": "95.72%",
+    "uptimeMonth": "51.75%",
+    "uptimeYear": "95.71%",
     "time": 672,
     "timeDay": 219,
     "timeWeek": 225,
     "timeMonth": 520,
     "timeYear": 678,
     "dailyMinutesDown": {
-      "2025-04-28": 1431,
+      "2025-04-28": 1440,
       "2025-04-27": 1440,
       "2025-04-26": 1440,
       "2025-04-25": 1440,
@@ -345,18 +345,20 @@
     "url": "https://tickets.bz",
     "icon": "https://icons.duckduckgo.com/ip3/tickets.bz.ico",
     "slug": "tickets-bz",
-    "status": "up",
+    "status": "down",
     "uptime": "99.38%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.38%",
-    "time": 722,
-    "timeDay": 731,
-    "timeWeek": 814,
-    "timeMonth": 823,
-    "timeYear": 722,
+    "time": 721,
+    "timeDay": 407,
+    "timeWeek": 723,
+    "timeMonth": 800,
+    "timeYear": 721,
     "dailyMinutesDown": {
+      "2025-04-29": 0,
+      "2025-04-28": 1,
       "2025-02-03": 554,
       "2025-02-02": 1440,
       "2025-02-01": 477,
@@ -447,8 +449,7 @@
       "2024-05-03": 1440,
       "2024-05-02": 1440,
       "2024-05-01": 1440,
-      "2024-04-30": 1440,
-      "2024-04-29": 1440
+      "2024-04-30": 1440
     }
   },
   {
@@ -461,7 +462,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "92.41%",
+    "uptimeYear": "92.42%",
     "time": 894,
     "timeDay": 675,
     "timeWeek": 767,
@@ -500,8 +501,7 @@
       "2024-05-03": 1440,
       "2024-05-02": 1440,
       "2024-05-01": 1440,
-      "2024-04-30": 1440,
-      "2024-04-29": 1440
+      "2024-04-30": 1440
     }
   },
   {
@@ -567,8 +567,7 @@
       "2024-05-03": 1440,
       "2024-05-02": 1440,
       "2024-05-01": 1440,
-      "2024-04-30": 1440,
-      "2024-04-29": 1440
+      "2024-04-30": 1440
     }
   },
   {
@@ -671,8 +670,7 @@
       "2024-05-03": 1440,
       "2024-05-02": 1440,
       "2024-05-01": 1440,
-      "2024-04-30": 1440,
-      "2024-04-29": 1440
+      "2024-04-30": 1440
     }
   },
   {
@@ -727,8 +725,7 @@
       "2024-05-03": 1440,
       "2024-05-02": 1440,
       "2024-05-01": 1440,
-      "2024-04-30": 1440,
-      "2024-04-29": 1440
+      "2024-04-30": 1440
     }
   },
   {
@@ -756,8 +753,7 @@
       "2024-06-10": 3,
       "2024-05-28": 97,
       "2024-05-01": 934,
-      "2024-04-30": 1440,
-      "2024-04-29": 1440
+      "2024-04-30": 1440
     }
   },
   {
@@ -830,8 +826,7 @@
       "2024-05-03": 1440,
       "2024-05-02": 1440,
       "2024-05-01": 1440,
-      "2024-04-30": 1440,
-      "2024-04-29": 1440
+      "2024-04-30": 1440
     }
   },
   {
@@ -886,8 +881,7 @@
       "2024-05-03": 1440,
       "2024-05-02": 1440,
       "2024-05-01": 1440,
-      "2024-04-30": 1440,
-      "2024-04-29": 1440
+      "2024-04-30": 1440
     }
   },
   {
@@ -1056,17 +1050,16 @@
     "slug": "tickets-tl",
     "status": "up",
     "uptime": "99.68%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.59%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.60%",
     "time": 988,
     "timeDay": 590,
     "timeWeek": 801,
     "timeMonth": 1058,
     "timeYear": 997,
     "dailyMinutesDown": {
-      "2025-04-28": 9,
       "2025-02-02": 1077,
       "2025-02-01": 457,
       "2024-10-05": 57,
@@ -1586,18 +1579,20 @@
     "url": "https://tickets.ht",
     "icon": "https://icons.duckduckgo.com/ip3/tickets.ht.ico",
     "slug": "tickets-ht",
-    "status": "up",
+    "status": "down",
     "uptime": "97.49%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "95.43%",
-    "time": 831,
-    "timeDay": 696,
-    "timeWeek": 840,
-    "timeMonth": 836,
-    "timeYear": 765,
+    "time": 830,
+    "timeDay": 451,
+    "timeWeek": 760,
+    "timeMonth": 816,
+    "timeYear": 764,
     "dailyMinutesDown": {
+      "2025-04-29": 1,
+      "2025-04-28": 1,
       "2025-02-02": 1051,
       "2025-02-01": 439,
       "2024-10-05": 39,
@@ -2048,19 +2043,19 @@
     "url": "https://tickets.co.mz",
     "icon": "https://icons.duckduckgo.com/ip3/tickets.co.mz.ico",
     "slug": "tickets-co-mz",
-    "status": "down",
+    "status": "up",
     "uptime": "99.71%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.37%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.64%",
     "time": 878,
-    "timeDay": 423,
-    "timeWeek": 712,
-    "timeMonth": 873,
+    "timeDay": 532,
+    "timeWeek": 717,
+    "timeMonth": 869,
     "timeYear": 865,
     "dailyMinutesDown": {
-      "2025-04-28": 2,
+      "2025-04-28": 9,
       "2025-02-02": 1040,
       "2025-02-01": 420,
       "2024-10-05": 20,
@@ -2074,19 +2069,19 @@
     "url": "https://tickets.com.mm",
     "icon": "https://icons.duckduckgo.com/ip3/tickets.com.mm.ico",
     "slug": "tickets-com-mm",
-    "status": "down",
-    "uptime": "99.48%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.48%",
+    "status": "up",
+    "uptime": "99.47%",
+    "uptimeDay": "99.37%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.47%",
     "time": 777,
-    "timeDay": 382,
-    "timeWeek": 615,
-    "timeMonth": 966,
+    "timeDay": 507,
+    "timeWeek": 630,
+    "timeMonth": 960,
     "timeYear": 777,
     "dailyMinutesDown": {
-      "2025-04-28": 2,
+      "2025-04-28": 9,
       "2025-02-03": 555,
       "2025-02-02": 428
     }
@@ -2125,7 +2120,7 @@
     "uptime": "96.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "76.07%",
+    "uptimeMonth": "76.10%",
     "uptimeYear": "93.97%",
     "time": 1410,
     "timeDay": 730,
@@ -2306,18 +2301,20 @@
     "url": "https://tickets.pa",
     "icon": "https://icons.duckduckgo.com/ip3/tickets.pa.ico",
     "slug": "tickets-pa",
-    "status": "up",
+    "status": "down",
     "uptime": "99.60%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.50%",
-    "time": 991,
-    "timeDay": 728,
-    "timeWeek": 858,
-    "timeMonth": 944,
-    "timeYear": 1029,
+    "time": 990,
+    "timeDay": 488,
+    "timeWeek": 782,
+    "timeMonth": 922,
+    "timeYear": 1027,
     "dailyMinutesDown": {
+      "2025-04-29": 2,
+      "2025-04-28": 1,
       "2025-02-02": 1059,
       "2025-02-01": 413,
       "2024-09-24": 22,
@@ -3144,9 +3141,9 @@
     "slug": "tickets-tg",
     "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.13%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.66%",
     "time": 1035,
     "timeDay": 595,
@@ -3154,7 +3151,8 @@
     "timeMonth": 1174,
     "timeYear": 1004,
     "dailyMinutesDown": {
-      "2025-04-28": 2,
+      "2025-04-29": 3,
+      "2025-04-28": 9,
       "2025-02-02": 1078,
       "2025-02-01": 390,
       "2024-09-03": 32,
