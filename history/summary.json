@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/ttm.org.ico",
     "slug": "ttm",
     "status": "down",
-    "uptime": "96.79%",
+    "uptime": "96.78%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "32.03%",
-    "uptimeYear": "94.07%",
+    "uptimeMonth": "31.87%",
+    "uptimeYear": "94.06%",
     "time": 666,
     "timeDay": 263,
     "timeWeek": 220,
     "timeMonth": 425,
     "timeYear": 672,
     "dailyMinutesDown": {
-      "2025-05-04": 1438,
+      "2025-05-05": 68,
+      "2025-05-04": 1440,
       "2025-05-03": 1440,
       "2025-05-02": 1440,
       "2025-05-01": 1440,
@@ -58,7 +59,7 @@
     "slug": "tickets-af",
     "status": "up",
     "uptime": "98.29%",
-    "uptimeDay": "76.48%",
+    "uptimeDay": "81.34%",
     "uptimeWeek": "94.22%",
     "uptimeMonth": "98.67%",
     "uptimeYear": "96.99%",
@@ -418,7 +419,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "89.85%",
     "uptimeMonth": "97.66%",
-    "uptimeYear": "93.79%",
+    "uptimeYear": "93.80%",
     "time": 882,
     "timeDay": 941,
     "timeWeek": 758,
@@ -453,8 +454,7 @@
       "2024-05-09": 1440,
       "2024-05-08": 1440,
       "2024-05-07": 1440,
-      "2024-05-06": 1440,
-      "2024-05-05": 1440
+      "2024-05-06": 1440
     }
   },
   {
@@ -467,7 +467,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "94.06%",
+    "uptimeYear": "94.07%",
     "time": 894,
     "timeDay": 816,
     "timeWeek": 799,
@@ -500,8 +500,7 @@
       "2024-05-09": 1440,
       "2024-05-08": 1440,
       "2024-05-07": 1440,
-      "2024-05-06": 1440,
-      "2024-05-05": 1440
+      "2024-05-06": 1440
     }
   },
   {
@@ -514,7 +513,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "89.85%",
     "uptimeMonth": "97.66%",
-    "uptimeYear": "90.05%",
+    "uptimeYear": "90.06%",
     "time": 903,
     "timeDay": 826,
     "timeWeek": 803,
@@ -563,8 +562,7 @@
       "2024-05-09": 1440,
       "2024-05-08": 1440,
       "2024-05-07": 1440,
-      "2024-05-06": 1440,
-      "2024-05-05": 1440
+      "2024-05-06": 1440
     }
   },
   {
@@ -574,7 +572,7 @@
     "slug": "tickets-com-kh",
     "status": "up",
     "uptime": "99.18%",
-    "uptimeDay": "58.21%",
+    "uptimeDay": "63.08%",
     "uptimeWeek": "81.54%",
     "uptimeMonth": "95.75%",
     "uptimeYear": "99.31%",
@@ -623,11 +621,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/tickets.td.ico",
     "slug": "tickets-td",
     "status": "up",
-    "uptime": "91.77%",
+    "uptime": "91.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "93.15%",
+    "uptimeYear": "93.17%",
     "time": 1050,
     "timeDay": 937,
     "timeWeek": 985,
@@ -663,8 +661,7 @@
       "2024-05-09": 1440,
       "2024-05-08": 1440,
       "2024-05-07": 1440,
-      "2024-05-06": 1440,
-      "2024-05-05": 1440
+      "2024-05-06": 1440
     }
   },
   {
@@ -677,7 +674,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "91.62%",
     "uptimeMonth": "98.07%",
-    "uptimeYear": "93.01%",
+    "uptimeYear": "93.02%",
     "time": 820,
     "timeDay": 816,
     "timeWeek": 781,
@@ -714,8 +711,7 @@
       "2024-05-09": 1440,
       "2024-05-08": 1440,
       "2024-05-07": 1440,
-      "2024-05-06": 1440,
-      "2024-05-05": 1440
+      "2024-05-06": 1440
     }
   },
   {
@@ -756,7 +752,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "88.25%",
+    "uptimeYear": "88.27%",
     "time": 667,
     "timeDay": 558,
     "timeWeek": 425,
@@ -810,8 +806,7 @@
       "2024-05-09": 1440,
       "2024-05-08": 1440,
       "2024-05-07": 1440,
-      "2024-05-06": 1440,
-      "2024-05-05": 1440
+      "2024-05-06": 1440
     }
   },
   {
@@ -824,7 +819,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "93.17%",
+    "uptimeYear": "93.18%",
     "time": 864,
     "timeDay": 820,
     "timeWeek": 778,
@@ -860,8 +855,7 @@
       "2024-05-09": 1440,
       "2024-05-08": 1440,
       "2024-05-07": 1440,
-      "2024-05-06": 1440,
-      "2024-05-05": 1440
+      "2024-05-06": 1440
     }
   },
   {
@@ -1061,7 +1055,7 @@
     "slug": "tickets-ec",
     "status": "up",
     "uptime": "99.52%",
-    "uptimeDay": "76.49%",
+    "uptimeDay": "81.36%",
     "uptimeWeek": "94.22%",
     "uptimeMonth": "98.67%",
     "uptimeYear": "99.33%",
@@ -1478,7 +1472,7 @@
     "slug": "tickets-gl",
     "status": "up",
     "uptime": "99.62%",
-    "uptimeDay": "76.49%",
+    "uptimeDay": "81.37%",
     "uptimeWeek": "94.22%",
     "uptimeMonth": "98.67%",
     "uptimeYear": "99.50%",
@@ -1951,7 +1945,7 @@
     "slug": "tickets-ly",
     "status": "up",
     "uptime": "99.69%",
-    "uptimeDay": "76.50%",
+    "uptimeDay": "81.39%",
     "uptimeWeek": "96.54%",
     "uptimeMonth": "99.20%",
     "uptimeYear": "99.56%",
@@ -2154,7 +2148,7 @@
     "uptime": "96.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.10%",
+    "uptimeMonth": "99.26%",
     "uptimeYear": "93.97%",
     "time": 1395,
     "timeDay": 816,
@@ -2200,7 +2194,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/tickets.ng.ico",
     "slug": "tickets-ng",
     "status": "up",
-    "uptime": "87.54%",
+    "uptime": "87.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -2899,7 +2893,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/tickets.sr.ico",
     "slug": "tickets-sr",
     "status": "up",
-    "uptime": "87.63%",
+    "uptime": "87.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -3181,7 +3175,7 @@
     "slug": "tickets-tg",
     "status": "up",
     "uptime": "99.69%",
-    "uptimeDay": "76.51%",
+    "uptimeDay": "81.42%",
     "uptimeWeek": "95.31%",
     "uptimeMonth": "98.92%",
     "uptimeYear": "99.57%",
