@@ -1,7 +1,7 @@
 url: https://tickets.com.py
-status: down
-code: 500
-responseTime: 3462
-lastUpdated: 2025-05-26T16:44:42.879Z
+status: up
+code: 200
+responseTime: 669
+lastUpdated: 2025-05-26T16:56:07.030Z
 startTime: 2023-06-20T06:50:30.000Z
 generator: Upptime <https://github.com/upptime/upptime>
