@@ -1,7 +1,7 @@
 url: https://tickets.sv
-status: down
-code: 502
-responseTime: 2642
-lastUpdated: 2025-06-06T14:55:42.143Z
+status: up
+code: 200
+responseTime: 747
+lastUpdated: 2025-06-06T15:14:55.075Z
 startTime: 2023-06-20T06:49:51.000Z
 generator: Upptime <https://github.com/upptime/upptime>
