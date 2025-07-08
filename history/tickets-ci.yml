@@ -1,7 +1,7 @@
 url: https://tickets.ci
-status: down
-code: 500
-responseTime: 1777
-lastUpdated: 2025-07-08T07:28:15.092Z
+status: up
+code: 200
+responseTime: 739
+lastUpdated: 2025-07-08T07:42:41.940Z
 startTime: 2023-06-20T06:50:10.000Z
 generator: Upptime <https://github.com/upptime/upptime>
