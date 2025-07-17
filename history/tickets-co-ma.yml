@@ -1,7 +1,7 @@
 url: https://tickets.co.ma
-status: up
-code: 200
-responseTime: 967
-lastUpdated: 2025-07-16T23:26:02.264Z
+status: down
+code: 421
+responseTime: 550
+lastUpdated: 2025-07-17T05:44:25.875Z
 startTime: 2023-06-20T06:50:21.000Z
 generator: Upptime <https://github.com/upptime/upptime>
