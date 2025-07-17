@@ -1,7 +1,7 @@
 url: https://tickets.ax
-status: up
-code: 200
-responseTime: 1195
-lastUpdated: 2025-07-16T23:25:14.631Z
+status: down
+code: 421
+responseTime: 571
+lastUpdated: 2025-07-17T05:43:07.661Z
 startTime: 2023-06-20T06:49:27.000Z
 generator: Upptime <https://github.com/upptime/upptime>
