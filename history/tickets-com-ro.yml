@@ -1,7 +1,7 @@
 url: https://tickets.com.ro
-status: down
-code: 500
-responseTime: 604
-lastUpdated: 2025-07-24T15:40:12.142Z
+status: up
+code: 200
+responseTime: 1042
+lastUpdated: 2025-07-24T15:53:29.367Z
 startTime: 2024-12-19T08:55:11.949Z
 generator: Upptime <https://github.com/upptime/upptime>
