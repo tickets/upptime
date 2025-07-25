@@ -137,6 +137,8 @@ sites:
     url: https://tickets.com.sg
   - name: TICKETS.SO
     url: https://tickets.so
+  - name: TICKETS.COM.ES
+    url: https://tickets.com.es
   - name: TICKETS.SD
     url: https://tickets.sd
   - name: TICKETS.SR
@@ -157,8 +159,8 @@ sites:
     url: https://tickets.tn
   - name: TICKETS.WEB.TR
     url: https://tickets.web.tr
-  - name: TICKETS.CO.UG
-    url: https://tickets.co.ug
+  - name: TICKETS.UG
+    url: https://tickets.ug
   - name: TICKETS.IN.UA
     url: https://tickets.in.ua
   - name: TICKETS.ME.UK
