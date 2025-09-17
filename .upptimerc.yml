@@ -123,6 +123,8 @@ sites:
     url: https://tickets.pe
   - name: TICKETS.PH
     url: https://tickets.ph
+  - name: TICKETS.COM.PL
+    url: https://tickets.com.pl
   - name: TICKETS.PT
     url: https://tickets.pt
   - name: TICKETS.COM.PR
