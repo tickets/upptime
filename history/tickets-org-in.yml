@@ -1,7 +1,7 @@
 url: https://tickets.org.in
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-10-05T18:48:03.537Z
+status: up
+code: 200
+responseTime: 575
+lastUpdated: 2025-10-05T18:57:14.067Z
 startTime: 2023-06-20T06:50:08.000Z
 generator: Upptime <https://github.com/upptime/upptime>
