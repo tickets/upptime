@@ -1,7 +1,7 @@
 url: https://tickets.com.pl
-status: up
-code: 200
-responseTime: 728
-lastUpdated: 2025-10-20T07:32:32.960Z
+status: down
+code: 502
+responseTime: 338
+lastUpdated: 2025-10-20T08:00:22.001Z
 startTime: 2025-09-17T07:16:37.586Z
 generator: Upptime <https://github.com/upptime/upptime>
