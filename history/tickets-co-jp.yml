@@ -1,7 +1,7 @@
 url: http://tickets.co.jp
-status: up
-code: 200
-responseTime: 1474
-lastUpdated: 2025-10-20T07:31:37.536Z
+status: down
+code: 502
+responseTime: 1088
+lastUpdated: 2025-10-20T07:59:54.599Z
 startTime: 2023-06-20T06:50:12.000Z
 generator: Upptime <https://github.com/upptime/upptime>
