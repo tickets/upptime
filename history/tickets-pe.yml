@@ -1,7 +1,7 @@
 url: https://tickets.pe
-status: down
-code: 500
-responseTime: 3345
-lastUpdated: 2025-10-20T07:17:54.306Z
+status: up
+code: 200
+responseTime: 837
+lastUpdated: 2025-10-20T07:32:26.358Z
 startTime: 2023-06-20T06:50:31.000Z
 generator: Upptime <https://github.com/upptime/upptime>
