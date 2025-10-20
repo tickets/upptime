@@ -1,7 +1,7 @@
 url: https://tickets.cl
-status: down
-code: 502
-responseTime: 151
-lastUpdated: 2025-10-20T07:50:17.477Z
+status: up
+code: 200
+responseTime: 1265
+lastUpdated: 2025-10-20T08:32:47.345Z
 startTime: 2023-06-20T06:49:39.000Z
 generator: Upptime <https://github.com/upptime/upptime>
