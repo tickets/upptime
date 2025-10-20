@@ -1,7 +1,7 @@
 url: https://tickets.com.pk
-status: down
-code: 500
-responseTime: 3386
-lastUpdated: 2025-10-20T07:17:19.697Z
+status: up
+code: 200
+responseTime: 760
+lastUpdated: 2025-10-20T07:32:15.778Z
 startTime: 2023-06-20T06:50:28.000Z
 generator: Upptime <https://github.com/upptime/upptime>
