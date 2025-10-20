@@ -1,7 +1,7 @@
 url: https://tickets.ne.kr
-status: down
-code: 500
-responseTime: 3530
-lastUpdated: 2025-10-20T07:16:16.406Z
+status: up
+code: 200
+responseTime: 714
+lastUpdated: 2025-10-20T07:31:48.724Z
 startTime: 2025-04-29T10:19:59.021Z
 generator: Upptime <https://github.com/upptime/upptime>
