@@ -1,7 +1,7 @@
 url: https://tickets.com.gr
-status: down
-code: 502
-responseTime: 296
-lastUpdated: 2025-10-20T07:50:53.544Z
+status: up
+code: 200
+responseTime: 335
+lastUpdated: 2025-10-20T08:33:41.223Z
 startTime: 2023-06-20T06:50:01.000Z
 generator: Upptime <https://github.com/upptime/upptime>
