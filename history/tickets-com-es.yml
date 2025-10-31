@@ -1,7 +1,7 @@
 url: https://tickets.com.es
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-10-31T18:45:19.708Z
+status: up
+code: 200
+responseTime: 482
+lastUpdated: 2025-10-31T18:58:30.831Z
 startTime: 2025-07-25T07:35:59.702Z
 generator: Upptime <https://github.com/upptime/upptime>
