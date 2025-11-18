@@ -1,7 +1,7 @@
 url: https://tickets.bj
-status: up
-code: 200
-responseTime: 4965
-lastUpdated: 2025-11-18T12:51:05.647Z
+status: down
+code: 500
+responseTime: 188
+lastUpdated: 2025-11-18T13:23:42.172Z
 startTime: 2023-06-20T06:49:31.000Z
 generator: Upptime <https://github.com/upptime/upptime>
