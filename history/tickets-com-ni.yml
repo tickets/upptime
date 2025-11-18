@@ -1,7 +1,7 @@
 url: https://tickets.com.ni
-status: down
-code: 500
-responseTime: 497
-lastUpdated: 2025-11-18T11:41:15.385Z
+status: up
+code: 200
+responseTime: 1417
+lastUpdated: 2025-11-18T12:52:32.624Z
 startTime: 2023-06-20T06:50:25.000Z
 generator: Upptime <https://github.com/upptime/upptime>
