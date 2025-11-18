@@ -1,7 +1,7 @@
 url: https://tickets.ls
-status: up
-code: 200
-responseTime: 817
-lastUpdated: 2025-11-18T12:52:00.210Z
+status: down
+code: 500
+responseTime: 429
+lastUpdated: 2025-11-18T13:24:31.279Z
 startTime: 2025-02-03T08:47:13.456Z
 generator: Upptime <https://github.com/upptime/upptime>
