@@ -1,7 +1,7 @@
 url: https://tickets.me.uk
-status: down
-code: 500
-responseTime: 42
-lastUpdated: 2025-11-18T13:25:38.015Z
+status: up
+code: 200
+responseTime: 899
+lastUpdated: 2025-11-18T14:42:28.045Z
 startTime: 2023-06-20T06:50:54.000Z
 generator: Upptime <https://github.com/upptime/upptime>
