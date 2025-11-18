@@ -1,7 +1,7 @@
 url: https://tickets.sd
-status: down
-code: 500
-responseTime: 257
-lastUpdated: 2025-11-18T13:25:14.510Z
+status: up
+code: 200
+responseTime: 959
+lastUpdated: 2025-11-18T14:41:58.849Z
 startTime: 2023-06-20T06:50:41.000Z
 generator: Upptime <https://github.com/upptime/upptime>
