@@ -1,7 +1,7 @@
 url: https://tickets.tl
-status: up
-code: 200
-responseTime: 1705
-lastUpdated: 2025-11-17T23:23:12.395Z
+status: down
+code: 500
+responseTime: 148
+lastUpdated: 2025-11-18T11:58:26.305Z
 startTime: 2023-06-20T06:49:47.000Z
 generator: Upptime <https://github.com/upptime/upptime>
