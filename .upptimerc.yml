@@ -87,8 +87,8 @@ sites:
     url: http://ticketing.jp
   - name: TICKETS.KE
     url: https://tickets.ke
-  - name: TICKETS.NE.KR
-    url: https://tickets.ne.kr
+  - name: TICKETS.CO.KR
+    url: https://tickets.co.kr
   - name: TICKETS.LA
     url: https://tickets.la
   - name: TICKETS.LS
