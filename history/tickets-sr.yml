@@ -1,7 +1,7 @@
 url: https://tickets.sr
-status: down
-code: 500
-responseTime: 2162
-lastUpdated: 2026-01-19T19:49:26.714Z
+status: up
+code: 200
+responseTime: 815
+lastUpdated: 2026-01-19T19:57:46.962Z
 startTime: 2023-06-20T06:50:42.000Z
 generator: Upptime <https://github.com/upptime/upptime>
