@@ -253,7 +253,7 @@
     "uptime": "93.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "63.30%",
+    "uptimeMonth": "63.31%",
     "uptimeYear": "87.05%",
     "time": 986,
     "timeDay": 969,
@@ -347,7 +347,7 @@
     "uptime": "98.69%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "64.49%",
+    "uptimeMonth": "64.48%",
     "uptimeYear": "97.01%",
     "time": 990,
     "timeDay": 834,
@@ -355,7 +355,7 @@
     "timeMonth": 1031,
     "timeYear": 998,
     "dailyMinutesDown": {
-      "2026-02-08": 1126,
+      "2026-02-08": 1131,
       "2026-02-07": 1440,
       "2026-02-06": 1440,
       "2026-02-05": 1440,
@@ -377,18 +377,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/tickets.com.bd.ico",
     "slug": "tickets-com-bd",
     "status": "down",
-    "uptime": "2.03%",
-    "uptimeDay": "2.03%",
-    "uptimeWeek": "2.03%",
-    "uptimeMonth": "2.03%",
-    "uptimeYear": "2.03%",
+    "uptime": "0.51%",
+    "uptimeDay": "0.51%",
+    "uptimeWeek": "0.51%",
+    "uptimeMonth": "0.51%",
+    "uptimeYear": "0.51%",
     "time": 617,
     "timeDay": 617,
     "timeWeek": 617,
     "timeMonth": 617,
     "timeYear": 617,
     "dailyMinutesDown": {
-      "2026-02-08": 2
+      "2026-02-08": 6
     }
   },
   {
@@ -704,7 +704,7 @@
     "timeMonth": 946,
     "timeYear": 990,
     "dailyMinutesDown": {
-      "2026-02-08": 1127,
+      "2026-02-08": 1131,
       "2026-02-07": 1440,
       "2026-02-06": 1440,
       "2026-02-05": 1440,
@@ -2083,7 +2083,7 @@
     "timeMonth": 1555,
     "timeYear": 1324,
     "dailyMinutesDown": {
-      "2026-02-08": 1129,
+      "2026-02-08": 1133,
       "2026-02-07": 1440,
       "2026-02-06": 1440,
       "2026-02-05": 1440,
@@ -2260,7 +2260,7 @@
     "timeMonth": 0,
     "timeYear": 882,
     "dailyMinutesDown": {
-      "2026-02-08": 1129,
+      "2026-02-08": 1133,
       "2026-02-07": 1440,
       "2026-02-06": 1440,
       "2026-02-05": 1440,
@@ -2402,7 +2402,7 @@
     "timeMonth": 1169,
     "timeYear": 1122,
     "dailyMinutesDown": {
-      "2026-02-08": 1129,
+      "2026-02-08": 1133,
       "2026-02-07": 1440,
       "2026-02-06": 1440,
       "2026-02-05": 1440,
@@ -2928,18 +2928,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/tickets.qa.ico",
     "slug": "tickets-qa",
     "status": "down",
-    "uptime": "0.61%",
-    "uptimeDay": "0.61%",
-    "uptimeWeek": "0.61%",
-    "uptimeMonth": "0.61%",
-    "uptimeYear": "0.61%",
+    "uptime": "0.30%",
+    "uptimeDay": "0.30%",
+    "uptimeWeek": "0.30%",
+    "uptimeMonth": "0.30%",
+    "uptimeYear": "0.30%",
     "time": 598,
     "timeDay": 598,
     "timeWeek": 598,
     "timeMonth": 598,
     "timeYear": 598,
     "dailyMinutesDown": {
-      "2026-02-08": 4
+      "2026-02-08": 8
     }
   },
   {
@@ -2972,7 +2972,7 @@
     "uptime": "93.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "33.60%",
+    "uptimeMonth": "33.61%",
     "uptimeYear": "84.40%",
     "time": 891,
     "timeDay": 806,
@@ -3578,7 +3578,7 @@
     "timeMonth": 986,
     "timeYear": 916,
     "dailyMinutesDown": {
-      "2026-02-08": 1130,
+      "2026-02-08": 1134,
       "2026-02-07": 1440,
       "2026-02-06": 1440,
       "2026-02-05": 1440,
