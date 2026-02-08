@@ -15,6 +15,8 @@ sites:
     url: https://tickets.dz
   - name: TICKETS.ASIA
     url: https://tickets.asia
+  - name: TICKETS.COM.BD
+    url: https://tickets.com.bd
   - name: TICKETS.BZ
     url: https://tickets.bz
   - name: TICKETS.BJ
@@ -23,8 +25,8 @@ sites:
     url: https://tickets.bo
   - name: TICKETS.BA
     url: https://tickets.ba
-  - name: TICKETS.TUR.BR
-    url: https://tickets.tur.br
+  - name: TICKETS.COM.BR
+    url: https://tickets.com.br
   - name: TICKETS.COM.KH
     url: https://tickets.com.kh
   - name: TICKETS.CM
@@ -129,6 +131,8 @@ sites:
     url: https://tickets.pt
   - name: TICKETS.COM.PR
     url: https://tickets.com.pr
+  - name: TICKETS.QA
+    url: https://tickets.qa
   - name: TICKETS.COM.RO
     url: https://tickets.com.ro
   - name: TICKETS.LC
@@ -137,6 +141,8 @@ sites:
     url: https://tickets.sn
   - name: TICKETS.COM.SG
     url: https://tickets.com.sg
+  - name: TICKETS.SK
+    url: https://tickets.sk
   - name: TICKETS.SO
     url: https://tickets.so
   - name: TICKETS.COM.ES
