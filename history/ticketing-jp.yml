@@ -1,7 +1,7 @@
 url: http://ticketing.jp
-status: up
-code: 200
-responseTime: 472
-lastUpdated: 2026-04-30T23:56:24.389Z
+status: down
+code: 429
+responseTime: 134
+lastUpdated: 2026-05-01T14:06:44.582Z
 startTime: 2025-04-29T10:19:57.688Z
 generator: Upptime <https://github.com/upptime/upptime>
