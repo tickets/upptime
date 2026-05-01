@@ -1,7 +1,7 @@
 url: https://tickets.tj
-status: down
-code: 429
-responseTime: 180
-lastUpdated: 2026-05-01T14:07:48.030Z
+status: up
+code: 200
+responseTime: 738
+lastUpdated: 2026-05-01T18:13:19.358Z
 startTime: 2023-06-20T06:50:44.000Z
 generator: Upptime <https://github.com/upptime/upptime>
