@@ -1,7 +1,7 @@
 url: https://tickets.cr
-status: down
-code: 429
-responseTime: 178
-lastUpdated: 2026-05-01T14:05:54.432Z
+status: up
+code: 200
+responseTime: 461
+lastUpdated: 2026-05-01T18:10:36.297Z
 startTime: 2023-06-20T06:49:42.000Z
 generator: Upptime <https://github.com/upptime/upptime>
