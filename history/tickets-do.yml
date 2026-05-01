@@ -1,7 +1,7 @@
 url: https://tickets.do
-status: up
-code: 200
-responseTime: 637
-lastUpdated: 2026-04-30T23:56:04.874Z
+status: down
+code: 429
+responseTime: 174
+lastUpdated: 2026-05-01T14:06:00.089Z
 startTime: 2023-06-20T06:49:46.000Z
 generator: Upptime <https://github.com/upptime/upptime>
