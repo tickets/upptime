@@ -1,7 +1,7 @@
 url: https://tickets.la
-status: down
-code: 429
-responseTime: 146
-lastUpdated: 2026-05-01T14:06:51.429Z
+status: up
+code: 200
+responseTime: 664
+lastUpdated: 2026-05-01T18:11:54.683Z
 startTime: 2023-06-20T06:50:16.000Z
 generator: Upptime <https://github.com/upptime/upptime>
