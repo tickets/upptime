@@ -1,7 +1,7 @@
 url: https://tickets.co.kr
-status: up
-code: 200
-responseTime: 1960
-lastUpdated: 2026-04-30T23:56:27.606Z
+status: down
+code: 429
+responseTime: 294
+lastUpdated: 2026-05-01T14:06:49.517Z
 startTime: 2025-12-13T13:37:06.403Z
 generator: Upptime <https://github.com/upptime/upptime>
