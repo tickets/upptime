@@ -1,7 +1,7 @@
 url: https://tickets.com.bd
-status: up
-code: 200
-responseTime: 593
-lastUpdated: 2026-04-30T23:55:50.871Z
+status: down
+code: 429
+responseTime: 539
+lastUpdated: 2026-05-01T14:05:36.129Z
 startTime: 2026-02-08T18:44:41.895Z
 generator: Upptime <https://github.com/upptime/upptime>
