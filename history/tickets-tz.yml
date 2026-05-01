@@ -1,7 +1,7 @@
 url: https://tickets.tz
-status: up
-code: 200
-responseTime: 5036
-lastUpdated: 2026-04-30T23:57:02.933Z
+status: down
+code: 429
+responseTime: 257
+lastUpdated: 2026-05-01T14:07:50.108Z
 startTime: 2023-06-20T06:50:46.000Z
 generator: Upptime <https://github.com/upptime/upptime>
