@@ -1,7 +1,7 @@
 url: https://tickets.gt
-status: up
-code: 200
-responseTime: 518
-lastUpdated: 2026-04-30T23:56:15.896Z
+status: down
+code: 429
+responseTime: 268
+lastUpdated: 2026-05-01T14:06:27.956Z
 startTime: 2023-06-20T06:50:03.000Z
 generator: Upptime <https://github.com/upptime/upptime>
