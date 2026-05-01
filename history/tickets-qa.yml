@@ -1,7 +1,7 @@
 url: https://tickets.qa
-status: down
-code: 429
-responseTime: 310
-lastUpdated: 2026-05-01T14:07:29.434Z
+status: up
+code: 200
+responseTime: 948
+lastUpdated: 2026-05-01T18:12:49.591Z
 startTime: 2026-02-08T18:45:40.141Z
 generator: Upptime <https://github.com/upptime/upptime>
