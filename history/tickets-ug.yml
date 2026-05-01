@@ -1,7 +1,7 @@
 url: https://tickets.ug
-status: up
-code: 200
-responseTime: 449
-lastUpdated: 2026-04-30T23:57:08.872Z
+status: down
+code: 429
+responseTime: 176
+lastUpdated: 2026-05-01T14:07:58.304Z
 startTime: 2025-07-25T07:36:12.807Z
 generator: Upptime <https://github.com/upptime/upptime>
