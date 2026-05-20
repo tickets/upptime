@@ -1,7 +1,7 @@
 url: https://tickets.dz
-status: up
-code: 200
-responseTime: 1584
-lastUpdated: 2026-05-20T00:11:38.191Z
+status: down
+code: 500
+responseTime: 562
+lastUpdated: 2026-05-20T05:43:11.859Z
 startTime: 2023-06-20T06:49:28.000Z
 generator: Upptime <https://github.com/upptime/upptime>
