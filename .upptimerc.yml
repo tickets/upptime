@@ -196,5 +196,10 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
+# People assigned to the auto-created downtime issues. GitHub emails these
+# users (per their notification settings) whenever an endpoint goes down.
+assignees:
+  - belovolk
+
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
