@@ -940,10 +940,10 @@
     "url": "https://tickets.co.mz",
     "icon": "https://icons.duckduckgo.com/ip3/tickets.co.mz.ico",
     "slug": "tickets-co-mz",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1059,
@@ -951,7 +951,9 @@
     "timeWeek": 806,
     "timeMonth": 848,
     "timeYear": 1059,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-08-22": 1
+    }
   },
   {
     "name": "TICKETS.COM.MM",
