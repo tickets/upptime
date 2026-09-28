@@ -17,8 +17,6 @@ sites:
     url: https://tickets.asia
   - name: TICKETS.BD
     url: https://tickets.bd
-  - name: TICKETS.COM.BD
-    url: https://tickets.com.bd
   - name: TICKETS.BZ
     url: https://tickets.bz
   - name: TICKETS.BJ
@@ -59,10 +57,10 @@ sites:
     url: https://tickets.sv
   - name: TICKETS.ET
     url: https://tickets.et
-  - name: TICKETS.GA
-    url: https://tickets.ga
   - name: TICKETS.GF
     url: https://tickets.gf
+  - name: TICKETS.GA
+    url: https://tickets.ga
   - name: TICKETS.COM.GE
     url: https://tickets.com.ge
   - name: TICKETS.CO.DE
@@ -83,16 +81,19 @@ sites:
     url: https://tickets.org.in
   - name: TICKETS.CO.ID
     url: https://tickets.co.id
+  - name: TICKETS.IT
+    url: https://tickets.it
   - name: TICKETS.CI
     url: https://tickets.ci
   - name: TICKETS.CO.JP
     url: http://tickets.co.jp
+  # also covers ticketing.jp
   - name: TICKETING.JP
     url: http://ticketing.jp
+  - name: TICKETS.JO
+    url: https://tickets.jo
   - name: TICKETS.KE
     url: https://tickets.ke
-  - name: TICKETS.CO.KR
-    url: https://tickets.co.kr
   - name: TICKETS.LA
     url: https://tickets.la
   - name: TICKETS.LS
@@ -135,10 +136,12 @@ sites:
     url: https://tickets.com.pr
   - name: TICKETS.QA
     url: https://tickets.qa
-  - name: TICKETS.COM.RO
-    url: https://tickets.com.ro
+  - name: TICKETS.RO
+    url: https://tickets.ro
   - name: TICKETS.LC
     url: https://tickets.lc
+  - name: TICKETS.COM.SA
+    url: https://tickets.com.sa
   - name: TICKETS.SN
     url: https://tickets.sn
   - name: TICKETS.COM.SG
@@ -147,6 +150,8 @@ sites:
     url: https://tickets.sk
   - name: TICKETS.SO
     url: https://tickets.so
+  - name: TICKETS.CO.KR
+    url: https://tickets.co.kr
   - name: TICKETS.COM.ES
     url: https://tickets.com.es
   - name: TICKETS.SD
