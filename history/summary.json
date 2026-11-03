@@ -534,11 +534,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/tickets.com.ge.ico",
     "slug": "tickets-com-ge",
     "status": "down",
-    "uptime": "99.91%",
-    "uptimeDay": "98.85%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.61%",
-    "uptimeYear": "99.91%",
+    "uptime": "99.84%",
+    "uptimeDay": "90.33%",
+    "uptimeWeek": "98.62%",
+    "uptimeMonth": "99.33%",
+    "uptimeYear": "99.84%",
     "time": 925,
     "timeDay": 398,
     "timeWeek": 811,
@@ -547,7 +547,7 @@
     "dailyMinutesDown": {
       "2026-10-11": 82,
       "2026-10-10": 73,
-      "2026-11-03": 17
+      "2026-11-03": 139
     }
   },
   {
@@ -957,11 +957,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/tickets.co.mz.ico",
     "slug": "tickets-co-mz",
     "status": "down",
-    "uptime": "96.35%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "96.35%",
+    "uptime": "96.29%",
+    "uptimeDay": "91.38%",
+    "uptimeWeek": "98.77%",
+    "uptimeMonth": "99.72%",
+    "uptimeYear": "96.29%",
     "time": 987,
     "timeDay": 4553,
     "timeWeek": 1387,
@@ -974,7 +974,7 @@
       "2026-08-23": 1440,
       "2026-08-22": 1335,
       "2026-09-30": 311,
-      "2026-11-03": 2
+      "2026-11-03": 124
     }
   },
   {
