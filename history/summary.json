@@ -956,16 +956,16 @@
     "url": "https://tickets.co.mz",
     "icon": "https://icons.duckduckgo.com/ip3/tickets.co.mz.ico",
     "slug": "tickets-co-mz",
-    "status": "down",
-    "uptime": "96.23%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "96.77%",
-    "uptimeMonth": "99.26%",
-    "uptimeYear": "96.23%",
+    "status": "up",
+    "uptime": "96.22%",
+    "uptimeDay": "97.96%",
+    "uptimeWeek": "96.49%",
+    "uptimeMonth": "99.19%",
+    "uptimeYear": "96.22%",
     "time": 977,
-    "timeDay": 177,
-    "timeWeek": 1220,
-    "timeMonth": 974,
+    "timeDay": 553,
+    "timeWeek": 1187,
+    "timeMonth": 973,
     "timeYear": 977,
     "dailyMinutesDown": {
       "2026-08-26": 631,
@@ -975,7 +975,7 @@
       "2026-08-22": 1335,
       "2026-09-30": 311,
       "2026-11-03": 324,
-      "2026-11-05": 2
+      "2026-11-05": 29
     }
   },
   {
