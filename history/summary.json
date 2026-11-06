@@ -958,12 +958,12 @@
     "slug": "tickets-co-mz",
     "status": "up",
     "uptime": "96.25%",
-    "uptimeDay": "98.09%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "96.49%",
     "uptimeMonth": "99.19%",
     "uptimeYear": "96.25%",
     "time": 976,
-    "timeDay": 903,
+    "timeDay": 877,
     "timeWeek": 1169,
     "timeMonth": 966,
     "timeYear": 976,
@@ -1020,11 +1020,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/tickets.com.ni.ico",
     "slug": "tickets-com-ni",
     "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "98.75%",
-    "uptimeMonth": "99.71%",
-    "uptimeYear": "99.93%",
+    "uptime": "99.83%",
+    "uptimeDay": "86.40%",
+    "uptimeWeek": "96.83%",
+    "uptimeMonth": "99.27%",
+    "uptimeYear": "99.83%",
     "time": 927,
     "timeDay": 273,
     "timeWeek": 807,
@@ -1032,7 +1032,7 @@
     "timeYear": 927,
     "dailyMinutesDown": {
       "2026-11-03": 124,
-      "2026-11-06": 2
+      "2026-11-06": 196
     }
   },
   {
@@ -1511,11 +1511,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/tickets.co.tt.ico",
     "slug": "tickets-co-tt",
     "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "99.97%",
+    "uptime": "99.87%",
+    "uptimeDay": "86.41%",
+    "uptimeWeek": "98.06%",
+    "uptimeMonth": "99.43%",
+    "uptimeYear": "99.87%",
     "time": 929,
     "timeDay": 283,
     "timeWeek": 785,
@@ -1523,7 +1523,7 @@
     "timeYear": 929,
     "dailyMinutesDown": {
       "2026-10-29": 54,
-      "2026-11-06": 2
+      "2026-11-06": 196
     }
   },
   {
